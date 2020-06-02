@@ -45,3 +45,6 @@ which damage the quality of the image. Should consider some variations (there ar
 * A local beam search takes a lot of time to produce outputs because of 
 the fitness calculation step (the focus of the project was on the AI algorithms, ie there is no point optimizing the fitness calculation part).
 
+# Acknowledgement
+The problem statement can be found at the following link : https://rogerjohansson.blog/2008/12/07/genetic-programming-evolution-of-mona-lisa/
+
