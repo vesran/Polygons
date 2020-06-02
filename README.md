@@ -22,13 +22,13 @@ Here are some outputs of the project :
 
 # Algorithm
 
-These results can be obtains using a *Hill Climbing* method.
+These results can be obtained using a *Hill Climbing* method.
 The idea is to start with a set containing a single polygon 
 and iteratively do one of these actions :
 * add/replace a polygon
-* change color of a polygon
+* change the color of a polygon
 * move a polygon
-* change opacity of a polygon
+* change the opacity of a polygon
 * move a vertex of a polygon
 
 To enhance the quality of the outputs and reduce the number of iterations, 
@@ -43,5 +43,5 @@ several improvements have been implemented :
 which damage the quality of the image. Should consider some variations (there are already a lot in the Internet).
 * The *Simulated Annealing* gives the same results as *Hill Climbing* with a little bit more iterations to get the same quality.
 * A local beam search takes a lot of time to produce outputs because of 
-the fitness calculation step. 
+the fitness calculation step (the focus of the project was on the AI algorithms, ie there is no point optimizing the fitness calculation part).
 
