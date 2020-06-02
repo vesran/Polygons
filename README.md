@@ -35,7 +35,7 @@ To enhance the quality of the outputs and reduce the number of iterations,
 several improvements have been implemented : 
 * the color of a new polygon is adapted according to its position in the image,
 * focus on small polygons
-* polygons of sorted by "size" (perimeter : easy to calculate)
+* polygons are sorted by "size" (perimeter : easy to calculate)
 
 # Notes
 
